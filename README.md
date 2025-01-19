@@ -9,7 +9,7 @@ It also requires a Python add-on named Tkinter to make the pop-up windows, so In
 Steps To Install Tkinter:
 
 Step 1: Press Win+R or just open CMD WITH admin permission.
-Step 2: Type into the CMD the following:     pip install tk
+Step 2: Type into the CMD the following:  pip install tk
 Step 3: After it Installs Smooth Sailing, you can close the CMD and launch the .py file named “Choose Vehicle Main”
 
 How To Use:
